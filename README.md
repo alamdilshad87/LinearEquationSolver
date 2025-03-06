@@ -43,7 +43,7 @@ _(Each row represents an equation: ax + by + cz = d)_
 ## 📸 Screenshot
 Here's how it looks in action:
 
-![Linear Equation Solver](ss.png)
+![Linear Equation Solver](SS.png)
 
 ---
 
