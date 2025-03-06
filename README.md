@@ -20,11 +20,10 @@ Make sure Python is installed, then run:
 pip install numpy matplotlib
 ```
 
-### 2️⃣ Run the Program
-Simply execute:
-```bash
-python linear_solver.py
-```
+### 2️⃣ Run the Program in PyCharm
+- Open PyCharm and create a new Python file (`linear_solver.py`).
+- Copy and paste the script into the file.
+- Run the script directly inside PyCharm.
 
 ### 3️⃣ Input Your Equations
 You'll be asked to enter the coefficients in this format:
@@ -38,6 +37,13 @@ _(Each row represents an equation: ax + by + cz = d)_
 ### 4️⃣ See the Magic ✨
 - The script will solve the equations and print the solution.
 - It will also generate a **3D visualization** of the equations—because we love eye candy! 🍭
+
+---
+
+## 📸 Screenshot
+Here's how it looks in action:
+
+![Linear Equation Solver](ss.png)
 
 ---
 
